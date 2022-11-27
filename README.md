@@ -6,9 +6,11 @@ Projeto desenvolvido durante aulas práticas de ReactJS do curso da [B7Web](http
 * Styled-Components
 * TypeScript
 
+O personagem é responsivo as setas do teclado!
+
 ## :desktop_computer: Hospedagem
 
-O projeto foi hospedado na Vercel. [Clique aqui para acessar]() 
+O projeto foi hospedado na Vercel. [Clique aqui para acessar](https://reactjs-mini-rpg-game.vercel.app) 
 
 ## :atom_symbol: Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
 
